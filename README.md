@@ -9,6 +9,7 @@
 - Città: Milano
 - Telefono: +39 351 934 1426
 - Email: etienne.sgarbi4@gmail.com
+- GitHub: https://github.com/etiennesgarbi4/cv
 
 ## Profilo
 
@@ -24,9 +25,9 @@ Vengo dal marketing e dalla crescita, quindi so anche portare ciò che costruisc
 - **Brain aziendali e automazioni per i clienti.** Assistenti AI che conoscono documenti e processi dell'azienda, e automazioni di gestione e di vendita, anche con AI. Ho automatizzato l'assistenza clienti, la creazione delle inserzioni a pagamento, dal file Excel all'inserzione pronta e pubblicata, i post di Google Business Profile, il controllo di preventivi e fatture con avvisi, l'emissione di diplomi da un Excel e l'ottimizzazione del funnel di un ecommerce.
 - **Formazione.** Corsi sull'AI e sull'automazione per team aziendali, con esercizi di costruzione dal vivo, senza usare strumenti già pronti.
 
-### Docente di agenti AI e strumenti low-code, Fastweb Digital Academy (2026)
+### Docente, Fastweb Digital Academy, Yellow Tech, Academy Rapido (2026)
 
-- Corso su agenti AI e strumenti low-code e no-code, con lezioni pratiche sulla costruzione di automazioni.
+- Corsi su agenti AI e strumenti low-code e no-code, con lezioni pratiche sulla costruzione di automazioni.
 
 ### Growth Intern, indigo.ai (novembre 2024 - maggio 2025)
 
