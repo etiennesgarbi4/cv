@@ -21,8 +21,8 @@ Vengo dal marketing e dalla crescita, quindi so anche portare ciò che costruisc
 
 ### Business Automation e AI Specialist, D42 Digital Factory (da maggio 2025)
 
-- **App e strumenti su misura.** Costruisco con Claude Code applicazioni complete, con database, accessi, funzioni sul server e pubblicazione, per D42 e per i clienti. La principale è SentimenRadar, che analizza il sentiment dei marchi. So ricreare gli strumenti a pagamento, come Apollo e Clay, anche con sole automazioni: scraper e flussi propri.
-- **Brain aziendali e automazioni per i clienti.** Assistenti AI che conoscono documenti e processi dell'azienda, e automazioni di gestione e di vendita, anche con AI.
+- **App e strumenti su misura.** Costruisco con Claude Code applicazioni complete, con database, accessi, funzioni sul server e pubblicazione, per D42 e per i clienti. La principale è SentimenRadar, che analizza il sentiment dei marchi.
+- **Brain aziendali e automazioni per i clienti.** Assistenti AI che conoscono documenti e processi dell'azienda e aiutano i venditori a formarsi e a preparare le visite, e automazioni di gestione e di vendita che lavorano da sole.
 - **Formazione.** Corsi sull'AI e sull'automazione per team aziendali, con esercizi di costruzione dal vivo, senza usare strumenti già pronti.
 
 ### Docente, Fastweb Digital Academy, Yellow Tech, Academy Rapido (2026)
