@@ -21,7 +21,7 @@ I come from marketing and growth, so I can also take what I build to customers: 
 
 ### Business Automation and AI Specialist, D42 Digital Factory (since May 2025)
 
-- **Custom apps and tools.** I build full applications with Claude Code, with database, access control, server functions and deployment, for D42 and for clients. The main one is SentimenRadar, which analyses brand sentiment.
+- **Custom apps and tools.** I build full applications with Claude Code, with database, access control, server functions and deployment, for D42 and for clients. The main one is SentimenRadar, which analyzes brand sentiment.
 - **Company brains and automations for clients.** AI assistants that know a company's documents and processes and help salespeople learn and prepare their visits, plus management and sales automations that run on their own.
 - **Training.** AI and automation courses for company teams, with live building exercises and no ready-made tools.
 
