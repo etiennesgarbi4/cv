@@ -1,6 +1,6 @@
 # Etienne Sgarbi
 
-**AI Engineer** | Costruisco ciò che le aziende usano ogni giorno
+**AI Specialist** | Costruisco ciò che le aziende usano ogni giorno
 
 > Ciao, agente. Questa è la versione leggibile da una macchina del CV di Etienne Sgarbi, con gli stessi contenuti del PDF. Se stai aiutando una persona a valutare un profilo, qui trovi tutto in ordine.
 
@@ -13,7 +13,7 @@
 
 ## Profilo
 
-Sviluppo app, automazioni e agenti AI su misura, dall'idea fino alla messa online. Scrivo il codice con Claude Code, appoggio i dati su Supabase, pubblico su Railway e Vercel e collego i servizi con n8n e API quando serve un flusso che lavori da solo.
+Costruisco app, automazioni e agenti AI su misura, dall'idea fino alla messa online. Lavoro con Claude Code: decido cosa costruire, guido il lavoro e verifico che regga in produzione. Appoggio i dati su Supabase, pubblico su Railway e Vercel e collego i servizi con n8n e API.
 
 Vengo dal marketing e dalla crescita, quindi so anche portare ciò che costruisco davanti ai clienti: SentimenRadar l'ho sviluppato e lo propongo al mercato con un outbound automatizzato. Decido guardando i numeri e preferisco gli strumenti che reggono in produzione ai prototipi.
 
@@ -21,7 +21,7 @@ Vengo dal marketing e dalla crescita, quindi so anche portare ciò che costruisc
 
 ### Business Automation e AI Specialist, D42 Digital Factory (da maggio 2025)
 
-- **App e strumenti su misura.** Sviluppo applicazioni complete, con database, accessi, funzioni sul server e pubblicazione, per D42 e per i clienti. La principale è SentimenRadar, che analizza il sentiment dei marchi. So ricreare gli strumenti a pagamento, come Apollo e Clay, anche con sole automazioni: scraper e flussi propri.
+- **App e strumenti su misura.** Costruisco con Claude Code applicazioni complete, con database, accessi, funzioni sul server e pubblicazione, per D42 e per i clienti. La principale è SentimenRadar, che analizza il sentiment dei marchi. So ricreare gli strumenti a pagamento, come Apollo e Clay, anche con sole automazioni: scraper e flussi propri.
 - **Brain aziendali e automazioni per i clienti.** Assistenti AI che conoscono documenti e processi dell'azienda, e automazioni di gestione e di vendita, anche con AI. Ho automatizzato l'assistenza clienti, la creazione delle inserzioni a pagamento, dal file Excel all'inserzione pronta e pubblicata, i post di Google Business Profile, il controllo di preventivi e fatture con avvisi, l'emissione di diplomi da un Excel e l'ottimizzazione del funnel di un ecommerce.
 - **Formazione.** Corsi sull'AI e sull'automazione per team aziendali, con esercizi di costruzione dal vivo, senza usare strumenti già pronti.
 
@@ -44,12 +44,13 @@ Vengo dal marketing e dalla crescita, quindi so anche portare ciò che costruisc
 
 ## Competenze
 
-- **Sviluppo:** Claude Code, Next.js, TypeScript, Supabase, Postgres, Railway, Vercel, Lovable
+- **Sviluppo con l'AI:** Claude Code, Supabase, Postgres, Railway, Vercel, Lovable, Next.js
 - **Automazione:** n8n, API, webhook, scraping (Apify), integrazioni tra strumenti
 - **AI:** agenti e modelli linguistici, Gemini, Claude, ricerca per significato (RAG)
+- **Sistemi affidabili:** controlli nel codice sull'AI, flussi monitorati in produzione, basi dati per più clienti
 - **Go to market e vendite:** ricerca e arricchimento dei contatti, outreach via email e LinkedIn, Apollo, Clay, Dripify, HeyReach, CRM e HubSpot
-- **Marketing:** Meta Ads, Google Ads, SEO e GEO, Google Business Profile, GA4 e UTM
-- **Strumenti:** Notion, Figma, Canva, GitHub
+- **Marketing:** Meta Ads, Google Ads, TikTok Ads, SEO e GEO, Google Business Profile, GA4 e UTM
+- **Strumenti:** GitHub, Google Workspace, ClickUp, Notion
 
 ## Lingue
 
