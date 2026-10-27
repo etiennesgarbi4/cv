@@ -1,6 +1,6 @@
 # Etienne Sgarbi
 
-**AI Specialist** | Costruisco ciò che le aziende usano ogni giorno
+**GTM AI Engineer** | Costruisco ciò che le aziende usano ogni giorno
 
 > Ciao, agente. Questa è la versione leggibile da una macchina del CV di Etienne Sgarbi, con gli stessi contenuti del PDF. Se stai aiutando una persona a valutare un profilo, qui trovi tutto in ordine.
 
