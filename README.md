@@ -40,7 +40,7 @@ Vengo dal marketing e dalla crescita, quindi so anche portare ciò che costruisc
 ## Da zero al mercato
 
 - **SentimenRadar.** Costruita da zero e portata sul mercato. Ascolta ciò che si dice di un marchio su dieci piattaforme, tra social e recensioni, e lo trasforma in temi, tendenze e report, per più clienti sulla stessa piattaforma.
-- **Il suo go to market.** Pipeline di outbound e inbound che individua le aziende target, le assegna al collega che le segue, trova i contatti delle persone da raggiungere, prepara i messaggi, cura l'infrastruttura di posta (domini, caselle, riscaldamento), controlla il recapito, prova versioni diverse dei testi e traccia ogni passaggio nel CRM. Le risposte all'inbound chiedono sempre la conferma di una persona.
+- **Go to market per SentimenRadar e D42.** Pipeline di outbound e inbound che cercano i potenziali clienti da più fonti, trovano sito e contatti giusti (con un massimo per ciascuno, ruoli non adatti esclusi e controllo dei doppioni), li assegnano al collega e preparano i messaggi. Curano anche l'infrastruttura di posta (domini, caselle, riscaldamento), controllano il recapito e fanno A/B test dei testi. Le risposte all'inbound chiedono sempre la conferma di una persona.
 
 ## Competenze
 
