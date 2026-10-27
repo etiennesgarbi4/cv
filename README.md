@@ -47,7 +47,6 @@ Vengo dal marketing e dalla crescita, quindi so anche portare ciò che costruisc
 - **Sviluppo con l'AI:** Claude Code, Supabase, Postgres, Railway, Vercel, Lovable, Next.js
 - **Automazione:** n8n, API, webhook, scraping (Apify), integrazioni tra strumenti
 - **AI:** agenti e modelli linguistici, Gemini, Claude, ricerca per significato (RAG)
-- **Sistemi affidabili:** controlli nel codice sull'AI, flussi monitorati in produzione, basi dati per più clienti
 - **Go to market e vendite:** ricerca e arricchimento dei contatti, outreach via email e LinkedIn, Apollo, Clay, Dripify, HeyReach, CRM e HubSpot
 - **Marketing:** Meta Ads, Google Ads, TikTok Ads, SEO e GEO, Google Business Profile, GA4 e UTM
 - **Strumenti:** GitHub, Google Workspace, ClickUp, Notion
