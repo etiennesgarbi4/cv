@@ -22,7 +22,8 @@ Vengo dal marketing e dalla crescita, quindi so anche portare ciò che costruisc
 ### Business Automation e AI Specialist, D42 Digital Factory (da maggio 2025)
 
 - **App e strumenti su misura.** Costruisco con Claude Code applicazioni complete, con database, accessi, funzioni sul server e pubblicazione, per D42 e per i clienti. La principale è SentimenRadar, che analizza il sentiment dei marchi.
-- **Brain aziendali e automazioni per i clienti.** Assistenti AI che conoscono documenti e processi dell'azienda e aiutano i venditori a formarsi e a preparare le visite, e automazioni di gestione e di vendita che lavorano da sole.
+- **CRM aziendale.** Ho progettato e messo in produzione il CRM di D42, partendo da Twenty, un CRM open source, con modello dati di aziende, persone e opportunità, pipeline e collegamento con le automazioni n8n e con l'outbound. Il CRM è collegato a Claude tramite un server MCP.
+- **Brain aziendali e automazioni per i clienti.** Assistenti AI basati su RAG che conoscono documenti e processi dell'azienda e aiutano i venditori a formarsi e a preparare le visite, e automazioni di gestione e di vendita che lavorano da sole.
 - **Formazione.** Corsi sull'AI e sull'automazione per team aziendali, con esercizi di costruzione dal vivo, senza usare strumenti già pronti.
 
 ### Docente, Fastweb Digital Academy, Yellow Tech, Academy Rapido (2026)
@@ -31,7 +32,8 @@ Vengo dal marketing e dalla crescita, quindi so anche portare ciò che costruisc
 
 ### Growth Intern, indigo.ai (novembre 2024 - maggio 2025)
 
-- Supporto a community, contenuti, marketing automation e CRM in una società che sviluppa assistenti conversazionali.
+- Supporto a community, contenuti e marketing automation in una società che sviluppa assistenti conversazionali.
+- Gestione del CRM HubSpot (contatti, proprietà, workflow).
 
 ### Junior Marketer e Community Manager, OSA Agency (05/2022 - 12/2025)
 
@@ -39,15 +41,15 @@ Vengo dal marketing e dalla crescita, quindi so anche portare ciò che costruisc
 
 ## Da zero al mercato
 
-- **SentimenRadar.** Costruita da zero e portata sul mercato. Ascolta ciò che si dice di un marchio su dieci piattaforme, tra social e recensioni, e lo trasforma in temi, tendenze e report, per più clienti sulla stessa piattaforma.
-- **Go to market per SentimenRadar e D42.** Pipeline di outbound e inbound che cercano i potenziali clienti da più fonti, trovano sito e contatti giusti (con tetti per azienda, ruoli non adatti esclusi e controllo dei doppioni), li assegnano al collega e preparano i messaggi. Curano anche l'infrastruttura di posta (domini, caselle, riscaldamento), controllano il recapito e fanno A/B test del contenuto. Le risposte all'inbound chiedono sempre la conferma di una persona.
+- **SentimenRadar.** Costruita da zero e portata sul mercato. Ascolta ciò che si dice di un marchio su dieci piattaforme, tra social e recensioni, e lo trasforma in temi, tendenze e report, per più clienti sulla stessa piattaforma. Il sentiment di ogni commento lo assegna un modello che prima richiama con un RAG i venti commenti precedenti, la bio e le informazioni del marchio.
+- **Go to market per SentimenRadar e D42.** Pipeline di outbound e inbound che cercano i potenziali clienti da più fonti, trovano sito e contatti giusti (con tetti per azienda, ruoli non adatti esclusi e controllo dei doppioni), li valutano con un lead scoring, li assegnano al collega giusto e preparano i messaggi. Curano anche l'infrastruttura di posta (domini, caselle, riscaldamento), controllano il recapito e fanno A/B test del contenuto. Le risposte all'inbound chiedono sempre la conferma di una persona.
 
 ## Competenze
 
 - **Sviluppo con l'AI:** Claude Code, Supabase, Postgres, Railway, Vercel, Lovable, Next.js
 - **Automazione:** n8n, API, webhook, scraping (Apify), integrazioni tra strumenti
-- **AI:** agenti e modelli linguistici, Gemini, Claude, ricerca per significato (RAG)
-- **Go to market e vendite:** ricerca e arricchimento dei contatti, outreach via email e LinkedIn, Apollo, Clay, Dripify, HeyReach, CRM e HubSpot
+- **AI:** agenti e modelli linguistici, Gemini, Claude, ricerca per significato (RAG), server MCP
+- **Go to market e vendite:** ricerca e arricchimento dei contatti, outreach via email e LinkedIn, Apollo, Clay, Dripify, HeyReach, CRM, HubSpot e Twenty
 - **Marketing:** Meta Ads, Google Ads, TikTok Ads, SEO e GEO, Google Business Profile, GA4 e UTM
 - **Strumenti:** GitHub, Google Workspace, ClickUp, Notion
 
