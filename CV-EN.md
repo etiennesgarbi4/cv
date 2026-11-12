@@ -42,7 +42,7 @@ I come from marketing and growth, so I can also take what I build to customers: 
 ## From zero to market
 
 - **SentimenRadar.** Built from scratch and taken to market. It listens to what is said about a brand across ten platforms, from social media to reviews, and turns it into themes, trends and reports, for several clients on the same platform. The sentiment of each comment is assigned by a model that first retrieves, through RAG, the twenty previous comments, the bio and the brand information.
-- **Go to market for SentimenRadar and D42.** Outbound and inbound pipelines that find potential clients from multiple sources, find the right website and contacts (with caps per company, unsuitable roles excluded and duplicate checks), score them with a lead scoring, assign them to the right colleague and prepare the messages. They also handle the email infrastructure (domains, mailboxes, warm-up), check deliverability and run A/B tests on the content. Replies to inbound always need a person's confirmation.
+- **Go to market for SentimenRadar and D42.** Outbound and inbound pipelines that find potential clients from multiple sources, find the right website and contacts (with caps per company, unsuitable roles excluded and duplicate checks), run lead scoring on them, assign them to the right colleague and prepare the messages. They also handle the email infrastructure (domains, mailboxes, warm-up), check deliverability and run A/B tests on the content. Replies to inbound always need a person's confirmation.
 
 ## Skills
 
